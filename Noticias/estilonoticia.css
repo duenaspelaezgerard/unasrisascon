@@ -1,0 +1,16 @@
+.contenedor_grande{
+    background-color: bisque;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 25px;
+}
+.foto_titulo{
+    margin: 0px 20px;
+}
+.texto{
+    margin: 0px 20px;
+}
+img{
+    margin: 0 40px;
+    width: 90%;
+}

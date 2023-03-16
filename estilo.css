@@ -1,0 +1,71 @@
+.iconos{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 60px;
+    margin: 40px 200px;
+}
+.fa-microphone-lines{
+    margin-left: 40px;
+}
+h1{
+    font-family: 'Irish Grover', cursive;
+    font-size: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: rgba(150, 20, 20, 0.733)
+}
+.contenedor{
+    display: flex;
+    margin-top: 200px;
+    width: 100%;
+}
+h2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Irish Grover', cursive;
+    margin-bottom: 40px;
+}
+.izquierda{
+    width: 70%;
+}
+.derecha{
+    width: 30%;
+}
+.cartas{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Open Sans', sans-serif;
+}
+.carta{
+    border: 1px solid #d5d5d5;
+    box-shadow: 0px 1px 20px #d5d5d5;
+    width: 350px;
+    height: 390px;
+
+}
+.carta img{
+    width: 100%;
+    height: 200px;
+}
+.info{
+    margin: auto 15px;
+}
+p{
+    align-items: center;
+    justify-content: center;
+}
+
+audio{
+    padding: 20px;
+    cursor: pointer;
+}
+.carta audio:first-child{
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}

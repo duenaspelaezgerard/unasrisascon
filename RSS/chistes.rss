@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CHISTES</title>
+        <link>https://unasrisascon.000webhostapp.com/</link>
+        <description>3 chistes</description>
+        <language>es</language>
+
+        <item>
+            <title>Chiste 1</title>
+            <link>https://unasrisascon.000webhostapp.com/</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Chiste 2</title>
+            <link>https://unasrisascon.000webhostapp.com/</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Chiste 3</title>
+            <link>https://unasrisascon.000webhostapp.com/</link>
+            <description></description>
+        </item>
+    </channel>
+</rss>

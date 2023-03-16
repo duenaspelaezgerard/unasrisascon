@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Historias</title>
+        <link>https://unasrisascon.000webhostapp.com/</link>
+        <description>3 historias recientes</description>
+        <language>es</language>
+
+        <item>
+            <title>El Manchester United, con un once que intimida pese a sus siete bajas</title>
+            <link>https://unasrisascon.000webhostapp.com/Noticias/noticia1.html</link>
+            <description>Las pocas incógnitas, en la línea defensiva: Shaw podría jugar de central y dejar el lateral zurdo a Malacia debido a la sanción de Lisandro Martínez</description>
+        </item>
+        <item>
+            <title>Barça y Manchester United buscan su reválida europea</title>
+            <link>https://unasrisascon.000webhostapp.com/Noticias/noticia2.htm</link>
+            <description>Juegan dos equipos en plena racha la ida de este play off de Europa League con pinta de partidazo de Champions</description>
+        </item>
+        <item>
+            <title>El Madrid, cerca de renovar a Brahim</title>
+            <link>https://unasrisascon.000webhostapp.com/Noticias/noticia3.html</link>
+            <description>El Real Madrid está muy cerca de alcanzar un acuerdo con Brahim Díaz para ampliar su contrato hasta 2027, según ha publicado The Athletic.</description>
+        </item>
+    </channel>
+</rss>
