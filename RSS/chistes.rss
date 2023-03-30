@@ -3,23 +3,26 @@
     <channel>
         <title>CHISTES</title>
         <link>https://unasrisascon.000webhostapp.com/</link>
-        <description>3 chistes</description>
+        <description>3 chistes muy graciosos</description>
         <language>es</language>
 
         <item>
             <title>Chiste 1</title>
             <link>https://unasrisascon.000webhostapp.com/</link>
-            <description></description>
+            <description>Cancion en formato mp3</description>
+            <enclosure url="https://duenaspelaezgerard.github.io/unasrisascon/Audios/coniferous-forest-142569.mp3" length="4.102.687" type="audio/mp3"/>
         </item>
         <item>
             <title>Chiste 2</title>
             <link>https://unasrisascon.000webhostapp.com/</link>
-            <description></description>
+            <description>Cancion en formato mp3</description>
+            <enclosure url="https://duenaspelaezgerard.github.io/unasrisascon/Audios/coniferous-forest-142569.mp3" length="4.102.687" type="audio/mp3"/>
         </item>
         <item>
             <title>Chiste 3</title>
             <link>https://unasrisascon.000webhostapp.com/</link>
-            <description></description>
+            <description>Cancion en formato mp3</description>
+            <enclosure url="https://duenaspelaezgerard.github.io/unasrisascon/Audios/coniferous-forest-142569.mp3" length="4.102.687" type="audio/mp3"/>
         </item>
     </channel>
 </rss>
